@@ -1,6 +1,6 @@
 ### Hi there, Fajri here 👋
 
-- I am a full Stack Engineer
+- I am a Full Stack Engineer
 - React, Flutter, Express, Node.js, Laravel
 
 <!--
