@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Fajri here 👋
+
+- I am a full Stack Engineer
+- React, Flutter, Express, Node.js, Laravel
 
 <!--
 **mfajririki/mfajririki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
