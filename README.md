@@ -1,10 +1,9 @@
 ### Hellow
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="15" height="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="15" height="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="15" height="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="20" height="20"/>
 </p>
 
 <!--
