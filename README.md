@@ -11,4 +11,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="20" height="20"/>
 </p>
 
+<br />
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfajririki)](https://github.com/mfajririki/github-readme-stats)
